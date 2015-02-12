@@ -1,7 +1,7 @@
 # Unique Style for Login
 A login form which is totally unique with a character of interest.
 
-<src src="http://raw.github.com/r4nd1/template-login-unique/master/screenshot.jpg" width="900">
+<img src="http://raw.github.com/r4nd1/template-login-unique/master/screenshot.jpg" width="900">
 
 ## Uploader
 * Name: Randy Riolis
